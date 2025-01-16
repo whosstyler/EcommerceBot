@@ -105,6 +105,7 @@ EcommerceBot is a Node.js-based Discord bot with integrated e-commerce functiona
 2. Use `!register` to create a profile.
 3. Explore other commands (`!games`, `!profile`, `!support`) as needed.
 
+[Watch on YouTube](https://www.youtube.com/watch?v=bQRlKC3dGWE&ab_channel=whosstyler)
 
 ## Contribution
 Contributions are welcome! Please submit a pull request or open an issue for any bugs or feature requests.
